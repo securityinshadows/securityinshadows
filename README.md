@@ -1,9 +1,3 @@
-username = "@securityinshadows"
+Hi, I'm securityinshadows, a cybersec nerd who's still learning the basics, I'm down to work on any software related project.
 
-focus = "Cybersecurity."
-
-down_to = "work on any software project, especially sec related"
-
-discord = "phantomsabotage"
-
-fun_fact = "I make music in my free time :D"
+You can find me on Discord "phantomsabotage"
